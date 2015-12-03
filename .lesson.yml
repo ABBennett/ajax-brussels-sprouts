@@ -1,0 +1,8 @@
+---
+title: "Random Brussels Sprouts with Ajax"
+type: "exercise"
+description: "Using Ajax to generate random brussels sprouts recipes"
+visibility: "assign"
+tags: "ajax, javascript"
+ignore:
+- "ajax-brussels-sprouts.md"
